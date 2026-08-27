@@ -1,0 +1,8 @@
+{
+    "Name": "Your Dataset Name",
+    "BIDSVersion": "1.8.0",
+    "Authors": [
+        "Tang yancheng"
+    ],
+    "DatasetType": "raw"
+}
