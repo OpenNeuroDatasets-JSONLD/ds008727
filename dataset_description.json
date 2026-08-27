@@ -1,8 +1,9 @@
 {
-    "Name": "Your Dataset Name",
+    "Name": "CorrNet_Dataset\n",
     "BIDSVersion": "1.8.0",
     "Authors": [
         "Tang yancheng"
     ],
-    "DatasetType": "raw"
+    "DatasetType": "raw",
+    "License": "CC0"
 }
